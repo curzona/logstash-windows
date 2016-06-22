@@ -11,7 +11,7 @@ Logstash 1.3.3
     cd logstash-1.3.3
     wget https://download.elasticsearch.org/logstash/logstash/logstash-1.3.3-flatjar.jar
 
-Logstash 1.3.0
+Logstash 1.4.0
     
     cd logstash-1.4.0
     wget https://download.elasticsearch.org/logstash/logstash/logstash-1.4.0.tar.gz
